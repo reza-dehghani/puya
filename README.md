@@ -15,13 +15,14 @@
 
 ![screenshot](https://raw.githubusercontent.com/reza-dehghani/puya/main/preview.PNG)
 ![screenshot](https://raw.githubusercontent.com/reza-dehghani/puya/main/preview.gif)
+
 <div dir="rtl">
 
 در این پروژه امکان ثبت دانشجو، استاد و درس جدید وجود دارد و از امکانات آن میشه به انتخاب واحد، تاییدیه انتخاب واحد، ثبت نمره، مشاهده اطلاعات هر دانشجو، گزارش گیری از تعداد دانشجویان و اساتید و ... اشاره کرد.
 </div>
   
-## Features
 <div dir="rtl">
+## Features
 - ثبت و ذخیره اطلاعات دانشجویان، اساتید و درس ها
 - عملیات انتخاب واحد
 - نمایش برنامه کلاسی هر دانشجو
